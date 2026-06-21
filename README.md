@@ -99,10 +99,19 @@ python3 -m pip install face_recognition
 - You may need to adjust the commands for your own machine. For example, use `python` instead of `python3` if your system does not use `python3`.
 
 
-```
+``
 
 ### Step 2: Run Activity
 ```bash
 cd ~/cousework/activity1_4  
 python3 activity1_4_parallel.py
 ```
+
+
+#### ⚠️ Important Notes (Activity 1.4)
+
+- Use a dataset (folder of images) for testing. 
+- Do not use a single fixed image like `known_man.jpg`. 
+- The program should check multiple images in a folder. 
+- change hardcoded image 
+
