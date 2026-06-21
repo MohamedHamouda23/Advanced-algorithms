@@ -1,10 +1,20 @@
-# 🏗 Python Coursework: Activity Installation & Run Guide
+# 🏗 Advanced Algorithms Coursework
 
-This guide explains which libraries are needed for each activity and how to run them professionally using Python 3.
+This project is part of the **Advanced Algorithms module (UWE Bristol)**. 
+It focuses on implementing different activities using appropriate **data structures** and **algorithms** to support advanced algorithmic problem solving.
+
+The coursework is designed to test understanding of:
+- Efficient algorithm design 
+- Data structure selection 
+- Problem modelling 
+- Performance optimisation
 
 ---
 
 ## 🟢 Activity 1.1 – Student Marks
+This activity focuses on building a data processing and analytics system that calculates final degree classifications for students. It tests your ability to apply weighted averages, handle structured data from CSV files, and implement algorithmic logic based on real academic regulations.
+
+
 
 **How to run:**  
 💻 Windows / macOS / Linux:  
@@ -16,7 +26,7 @@ python3 student_marks.py
 ---
 
 ## 🟡 Activity 1.2 – Password Generator
-**Libraries used:**  
+This activity evaluates your ability to generate constrained combinatorial outputs using algorithmic search techniques. You are expected to apply brute-force or optimised generation strategies while enforcing multiple logical constraints.
 
 **How to run:**  
 ```bash
@@ -26,6 +36,7 @@ python3 password_generator.py
 ---
 
 ## 🟠 Activity 1.3 – Graph & Route Validation
+This activity involves solving a constrained optimisation problem on a weighted graph. You are required to design an algorithm that finds the lowest-cost route across a network while respecting visitation constraints.
 
 **How to run:**  
 ```bash
@@ -35,6 +46,7 @@ python3 route_planner.py
 ---
 
 ## 🔵 Activity 1.4 – Face Recognition
+This activity focuses on performance optimisation using parallel programming techniques. You are required to improve a sequential image processing system by introducing concurrency to reduce execution time.
 
 
 ### Step 1: Install Libraries
